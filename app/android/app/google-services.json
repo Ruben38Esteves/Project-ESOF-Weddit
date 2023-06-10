@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048381519306",
+    "project_id": "weddit-d0e3b",
+    "storage_bucket": "weddit-d0e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048381519306:android:c5742d001875a6e5168b33",
+        "android_client_info": {
+          "package_name": "com.GR2LEIC04T2.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048381519306-rq6eaf5nd9r9vvmejvkr4q3ib5hf7lb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmBZN3LZmE0x1D4uKw93evBEWqtgx5C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048381519306-rq6eaf5nd9r9vvmejvkr4q3ib5hf7lb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

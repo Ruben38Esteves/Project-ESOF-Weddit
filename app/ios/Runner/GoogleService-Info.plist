@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1048381519306-320l36eelkjmki9h2c99j1jjcj5vbcb5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1048381519306-320l36eelkjmki9h2c99j1jjcj5vbcb5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBqgquq5dB-VIwPT9gAnp7vplyIYN9cue0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1048381519306</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.GR2LEIC04T2.app</string>
+	<key>PROJECT_ID</key>
+	<string>weddit-d0e3b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weddit-d0e3b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1048381519306:ios:ff069972398df0a2168b33</string>
+</dict>
+</plist>

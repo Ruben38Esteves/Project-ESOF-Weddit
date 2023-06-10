@@ -1,0 +1,35 @@
+{
+    "name": "app",
+    "short_name": "app",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Knowledge, when mixed with different views and experiences on subjects, originates debates that frequently end with either or both of the parties involved acquiring more information on the subject. A different light on any topic enables the ability for a discussion to reach further than before. The idea behind Wikipedia is the pooling of the internet's knowledge in a single site. We want to pool the internet's discussion in a single site.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
